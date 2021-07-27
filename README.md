@@ -1,6 +1,6 @@
 # Scientific-Calculator
 This is a innovativedeveloper group . This is project on making Scientific-Calculator. 
-Group member: 
+  Group member: 
 1) SOURAV GHOSH (PROJECT HEAD)
 2) CHITRAJYOTI KHAMARU (COLLABORATOR)
 3) ARIJIT BHATTACHARJEE(COLLABORATOR)
